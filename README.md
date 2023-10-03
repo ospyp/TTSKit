@@ -2,6 +2,14 @@
 
 Easily run AI-based TTS (text-to-speech) models, quickly and efficiently. We support both TensorFlow and PyTorch (coming soon!) models.
 
+## Install
+
+**Important!** Do NOT install `ttskit`! This package is NOT affiliated with this project and is not managed by this project's authors!
+
+```
+pip install pyttskit
+```
+
 ## Core Features
 
 * No manual downloads required
