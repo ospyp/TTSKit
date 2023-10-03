@@ -1,0 +1,15 @@
+matplotlib==3.2.2
+librosa
+numba
+numpy
+deep-phonemizer
+ruamel.yaml>=0.16.6
+tensorflow>=2.2.0
+tqdm
+p_tqdm
+soundfile
+webrtcvad
+scipy
+pyworld
+cached-path
+nltk
