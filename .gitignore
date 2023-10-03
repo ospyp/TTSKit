@@ -4,3 +4,5 @@ output
 *.lock
 Gemfile
 Pipfile
+dist
+*.egg-info
