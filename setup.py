@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     author='mrfakename',
     author_email='me@mrfake.name',
-    description='Text-to-speech kit',
+    description='Easily interact with many cutting-edge neural/AI text-to-speech models using one API, including transformer-powered text to speech and other advanced models!',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/ospyp/TTSKit',
