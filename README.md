@@ -1,4 +1,4 @@
-# TTSKit (Beta)
+# (Py)TTSKit (Beta)
 
 Easily run AI-based TTS (text-to-speech) models, quickly and efficiently. We support both TensorFlow and PyTorch (coming soon!) models.
 
