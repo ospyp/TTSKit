@@ -54,7 +54,7 @@ class TextSplit:
         result = []
         for sent in sents:
             if len(sent) > max_len:
-                result.append(self._split_sentence(sent))
+                result.append(self._split_sentence(sent, max_len))
             else:
                 result.append(sent)
         return result
