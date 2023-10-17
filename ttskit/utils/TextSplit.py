@@ -16,7 +16,7 @@ TextSplit is part of TTSKit Additional Utilities.
 from nltk import sent_tokenize
 import re
 class TextSplit:
-    def _split_sentence(sentence, max_chars):
+    def _split_sentence(self, sentence, max_chars):
         fragments = re.split(r'([.!?;,:])', sentence)
         result = []
         current_fragment = ""
