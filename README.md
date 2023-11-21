@@ -30,6 +30,7 @@ pip install pyttskit
 * [PortaSpeech](https://github.com/keonlee9420/PortaSpeech)
 * [ttts](https://github.com/adelacvg/ttts)/[xtts](https://github.com/coqui-ai/TTS/tree/dev/TTS/tts/layers/xtts)
 * [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)
+* StyleTTS 2
 
 ## License
 
